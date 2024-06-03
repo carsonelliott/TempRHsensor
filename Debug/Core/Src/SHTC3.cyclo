@@ -1,0 +1,8 @@
+../Core/Src/SHTC3.c:10:19:SHTC3_Init	4
+../Core/Src/SHTC3.c:36:19:SHTC3_Read_Temperature_Humidity	6
+../Core/Src/SHTC3.c:91:19:SHTC3_Read_Temperature	5
+../Core/Src/SHTC3.c:125:19:SHTC3_Read_Humidity	5
+../Core/Src/SHTC3.c:159:19:SHTC3_ReadRegister	1
+../Core/Src/SHTC3.c:163:19:SHTC3_ReadRegisters	1
+../Core/Src/SHTC3.c:167:19:SHTC3_WriteRegister	1
+../Core/Src/SHTC3.c:172:9:CalculateCRC	4
